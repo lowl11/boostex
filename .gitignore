@@ -1,0 +1,9 @@
+.idea
+.vs_code
+.vs
+.DS_Store
+.env
+*.log
+logs
+cmd
+*.xlsx
